@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Playground Reservation</string>
+
+    <string name="search">ابحث بالمنطقة</string>
+</resources>

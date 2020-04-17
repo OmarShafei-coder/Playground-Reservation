@@ -1,0 +1,2 @@
+rootProject.name='Playground Reservation'
+include ':app'
